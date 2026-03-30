@@ -1,0 +1,15 @@
+C:\Curso C#\ex035\bin\Debug\net5.0\ex035.exe
+C:\Curso C#\ex035\bin\Debug\net5.0\ex035.deps.json
+C:\Curso C#\ex035\bin\Debug\net5.0\ex035.runtimeconfig.json
+C:\Curso C#\ex035\bin\Debug\net5.0\ex035.runtimeconfig.dev.json
+C:\Curso C#\ex035\bin\Debug\net5.0\ex035.dll
+C:\Curso C#\ex035\bin\Debug\net5.0\ex035.pdb
+C:\Curso C#\ex035\obj\Debug\net5.0\ex035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\ex035\obj\Debug\net5.0\ex035.AssemblyInfoInputs.cache
+C:\Curso C#\ex035\obj\Debug\net5.0\ex035.AssemblyInfo.cs
+C:\Curso C#\ex035\obj\Debug\net5.0\ex035.csproj.CoreCompileInputs.cache
+C:\Curso C#\ex035\obj\Debug\net5.0\ex035.dll
+C:\Curso C#\ex035\obj\Debug\net5.0\refint\ex035.dll
+C:\Curso C#\ex035\obj\Debug\net5.0\ex035.pdb
+C:\Curso C#\ex035\obj\Debug\net5.0\ex035.genruntimeconfig.cache
+C:\Curso C#\ex035\obj\Debug\net5.0\ref\ex035.dll
